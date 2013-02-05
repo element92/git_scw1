@@ -1,10 +1,8 @@
 This is my git README
 It's absolutely amoozing!
 
-<<<<<<< HEAD
 But can it track this change?  On line 4?  Now I've added a third change.
 
 I'm changing README and the code file at the same time before committing
-=======
+
 But can it track this change?  On line 4?
->>>>>>> parent of 1aa54bd... Third change.  Modified line 4.
